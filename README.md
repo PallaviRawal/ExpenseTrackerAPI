@@ -1,5 +1,4 @@
 # ExpenseTrackerAPI
-# Expense Tracker API
 
 A secure and scalable RESTful API built using ASP.NET Core that allows users to manage personal income and expenses efficiently. The application includes authentication, category and expense management, dashboard analytics, pagination, and soft delete functionality.
 
